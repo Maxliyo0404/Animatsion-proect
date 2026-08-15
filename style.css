@@ -17,8 +17,10 @@ body{
     justify-content: center;
     animation-name: anim1;
     animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
     animation-duration: 2s;
     animation-fill-mode: backwards;
+    animation-direction: alternate;
     @keyframes anim1 {
       0%{
         
