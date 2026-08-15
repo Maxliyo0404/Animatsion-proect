@@ -19,6 +19,9 @@ body{
     animation-iteration-count: infinite;
     animation-duration: 2s;
     animation-fill-mode: backwards;
+    @keyframes anim1 {
+        
+    }
 }
 
 
