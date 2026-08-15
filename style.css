@@ -16,3 +16,23 @@ body{
     align-items: center;
     justify-content: center;
 }
+.anim1{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    background: brown;
+    color: white;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.anim1{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    background: brown;
+    color: white;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
