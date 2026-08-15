@@ -6,3 +6,7 @@ body{
     align-items: center;
     justify-content: space-between;
 }
+.anim1{
+    width: 300px;
+    height: 300px;
+}
