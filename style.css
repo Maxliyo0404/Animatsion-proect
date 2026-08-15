@@ -22,8 +22,8 @@ body{
     animation-fill-mode: backwards;
     animation-direction: alternate;
     @keyframes anim1 {
-      0%{
-        
+      0% {
+        transform:
       }  
     }
 }
