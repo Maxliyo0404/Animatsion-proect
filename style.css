@@ -20,7 +20,9 @@ body{
     animation-duration: 2s;
     animation-fill-mode: backwards;
     @keyframes anim1 {
+      0%{
         
+      }  
     }
 }
 
