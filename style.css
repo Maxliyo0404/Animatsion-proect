@@ -21,7 +21,7 @@ body{
     animation-fill-mode: backwards;
     @keyframes anim1 {
       0%{
-        
+        trans
       }  
     }
 }
