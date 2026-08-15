@@ -16,11 +16,11 @@ body{
     align-items: center;
     justify-content: center;
 }
-.anim1{
+.anim2{
     width: 300px;
     height: 300px;
     border-radius: 20px;
-    background: brown;
+    background: blue;
     color: white;
      display: flex;
     align-items: center;
