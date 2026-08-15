@@ -13,8 +13,6 @@ body{
     margin: 0 auto;
     background: brown;
     position: relative;
-    
-    /* CSS yordamida yurak konturini yasash (clip-path) */
     clip-path: path('M100,30 C60,-10 0,20 0,70 C0,130 100,180 100,180 C100,180 200,130 200,70 C200,20 140,-10 100,30 Z');
     
     display: flex;
