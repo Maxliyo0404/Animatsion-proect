@@ -7,17 +7,16 @@ body{
     justify-content: space-between;
     
 }
-.anim1{
+.anim1, .anim2, .anim3{
    width: 200px;  
     height: 200px;
     margin: 0 auto;
     background: brown;
     position: relative;
-    clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+    clip-path: path('M100,30 C60,-10 0,20 0,70 C0,130 100,180 100,180 C100,180 200,130 200,70 C200,20 140,-10 100,30 Z');
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
     animation-name: anim1;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in;
@@ -53,22 +52,9 @@ body{
 
 
 .anim2{
-    width: 300px;
-    height: 300px;
-    border-radius: 20px;
+   
     background: blue;
-    color: white;
-     display: flex;
-    align-items: center;
-    justify-content: center;
 }
 .anim3{
-    width: 300px;
-    height: 300px;
-    border-radius: 20px;
-    background: yellowgreen;
-    color: white;
-     display: flex;
-    align-items: center;
-    justify-content: center;
+    background: purple;
 }
