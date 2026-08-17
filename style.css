@@ -82,6 +82,6 @@ body{
         transform: scale(1.12) rotate(deg);
     }
     60% {
-        transform: scale(1);
+        transform: scale(1) rotate();
     }
 }
