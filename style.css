@@ -60,7 +60,6 @@ body{
     height: 300px;
     background: fuchsia;
     clip-path: polygon(50% 0%, 100% 100%, 0% 100%)  ;
-    
     animation-name: anim1;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in;
