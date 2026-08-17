@@ -76,6 +76,7 @@ body{
     }
     30% {
         transform: scale(1) rotate(180deg);
+        border-radius: 20px;
     }
     45% {
         transform: scale(1.12) rotate(270deg);
