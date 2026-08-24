@@ -1,7 +1,7 @@
 body{
     background: skyblue;
 }
-.cards{
+/* .cards{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -51,7 +51,7 @@ body{
 }
 .anim3{
     background: purple;
-}
+} */
 
 .boxs{
     margin: 0 auto;
@@ -84,5 +84,4 @@ body{
     60% {
         transform: scale(1) rotate(360deg);
     }
-}
-bl
+}  
