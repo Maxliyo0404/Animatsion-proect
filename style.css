@@ -85,7 +85,7 @@ body{
         transform: scale(1) rotate(360deg);
     }
 }  
-.boxs{
+.info{
     width: 400px;
     height: 400px;
     background: wheat;
